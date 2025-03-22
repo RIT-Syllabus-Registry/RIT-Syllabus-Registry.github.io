@@ -116,6 +116,27 @@ a:focus {
   color: black
 }
 
+.tm-gccis-nav { text-transform: uppercase; }
+ .tm-gccis-nav li {
+   float: left;
+   list-style: none;
+ }
+ .tm-gccis-nav a {
+   background-color: #CC6030;
+   color: white;
+   display: block;
+   padding: 10px 27.4px;  
+   -webkit-transition: all 0.3s ease;  
+           transition: all 0.3s ease;
+ }
+ .mobile-menu-icon { display: none; }
+ .tm-gccis-nav a:hover,
+ .tm-gccis-nav a:focus,
+ .tm-gccis-nav a.active {
+   background-color: #CCCCCC;
+   color: black
+ }
+
 .tm-banner {
     width: 1460px;
     height: 553px;
@@ -136,9 +157,66 @@ a:focus {
 .tm-bn-kgcoe-bime {
 	background: url(../img/placeholder.jpg) no-repeat center;
 }
+.tm-bn-kgcoe-chme {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
 .tm-bn-kgcoe-cmpe {
 	background: url(../img/banner-cmpe.jpg) no-repeat center;
 }
+.tm-bn-kgcoe-eeee {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-kgcoe-egen {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-kgcoe-isee{
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-kgcoe-mcee {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-kgcoe-mece {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-cint {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-cisc {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-csci {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-csec {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-dsci {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-gcis {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-hcin {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-igme {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-isch {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-iste {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-medi {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-nssa {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+ .tm-bn-gccis-swen {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
 
 .tm-banner-text { 
 	position: relative; 
