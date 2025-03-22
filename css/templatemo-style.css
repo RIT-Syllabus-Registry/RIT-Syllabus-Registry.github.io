@@ -151,6 +151,8 @@ a:focus {
         -ms-flex-align: end;
             align-items: flex-end;
 }
+
+/* Banners */
 .tm-bn-home {
 	background: url(../img/banner-home.jpg) no-repeat center;
 }
@@ -215,6 +217,63 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
  .tm-bn-gccis-swen {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-biog {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-biol {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-cgns {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-chem {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-chma {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-chmb {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-chmg {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-chmi {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-chmo {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-clrs {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-envs {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-gsci {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-imgs {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-ints {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-itds {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-itds {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-math {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-phys {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-stat {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
 
