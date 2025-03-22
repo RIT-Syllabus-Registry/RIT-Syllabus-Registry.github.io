@@ -104,7 +104,7 @@ a:focus {
   background-color: #CC6030;
   color: white;
   display: block;
-  padding: 10px 13.63px;  
+  padding: 10px 7.8px;  
   -webkit-transition: all 0.3s ease;  
           transition: all 0.3s ease;
 }
@@ -231,6 +231,9 @@ a:focus {
  .tm-bn-gccis-swen {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
+  .tm-bn-cos-astp {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
   .tm-bn-cos-biog {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
@@ -258,6 +261,12 @@ a:focus {
   .tm-bn-cos-chmo {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
+  .tm-bn-cos-chmp {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-chpo {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
   .tm-bn-cos-clrs {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
@@ -280,6 +289,9 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
   .tm-bn-cos-math {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
+  .tm-bn-cos-mste {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
   .tm-bn-cos-phys {
