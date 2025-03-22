@@ -23,7 +23,7 @@ h3 {
   margin-top: 0;
 }
 p { margin-bottom: 0; }
-ul { padding-left: 15px; }
+ul { padding-left: 0px; }
 a:hover,
 a:focus {
   color: white;
