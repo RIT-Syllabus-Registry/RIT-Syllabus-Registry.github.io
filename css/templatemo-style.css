@@ -72,6 +72,7 @@ a:focus {
   color: black
 }
 
+/*KGCOE*/
 .tm-kgcoe-nav { text-transform: uppercase; }
 .tm-kgcoe-nav li {
   float: left;
@@ -89,6 +90,28 @@ a:focus {
 .tm-kgcoe-nav a:hover,
 .tm-kgcoe-nav a:focus,
 .tm-kgcoe-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
+
+/*COS*/
+.tm-cos-nav { text-transform: uppercase; }
+.tm-cos-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-cos-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 13.63px;  
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-cos-nav a:hover,
+.tm-cos-nav a:focus,
+.tm-cos-nav a.active {
   background-color: #CCCCCC;
   color: black
 }
