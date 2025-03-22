@@ -156,6 +156,9 @@ a:focus {
 .tm-bn-home {
 	background: url(../img/banner-home.jpg) no-repeat center;
 }
+.tm-bn-kgcoe-bcep {
+	background: url(../img/placeholder.jpg) no-repeat center;
+}
 .tm-bn-kgcoe-bime {
 	background: url(../img/placeholder.jpg) no-repeat center;
 }
@@ -171,15 +174,24 @@ a:focus {
  .tm-bn-kgcoe-egen {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
+ .tm-bn-kgcoe-engr {
+	background: url(../img/placeholder.jpg) no-repeat center;
+}
  .tm-bn-kgcoe-isee{
   background: url(../img/placeholder.jpg) no-repeat center;
  }
  .tm-bn-kgcoe-mcee {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
+ .tm-bn-kgcoe-mcse {
+	background: url(../img/placeholder.jpg) no-repeat center;
+}
  .tm-bn-kgcoe-mece {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
+ .tm-bn-kgcoe-miep {
+	background: url(../img/placeholder.jpg) no-repeat center;
+}
  .tm-bn-gccis-cint {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
