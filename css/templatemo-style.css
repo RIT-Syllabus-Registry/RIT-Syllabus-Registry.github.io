@@ -228,6 +228,50 @@ a:focus {
   color: black
 }
 
+/*NTID*/
+.tm-ntid1-nav { text-transform: uppercase; }
+.tm-ntid1-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-ntid1-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 22.875px;
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-ntid1-nav a:hover,
+.tm-ntid1-nav a:focus,
+.tm-ntid1-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
+
+/*NTID*/
+.tm-ntid2-nav { text-transform: uppercase; }
+.tm-ntid2-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-ntid2-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 21.6px;
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-ntid2-nav a:hover,
+.tm-ntid2-nav a:focus,
+.tm-ntid2-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
+
 .tm-banner {
     width: 1460px;
     height: 553px;
@@ -597,6 +641,92 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-cola-wgst {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+
+/* Banners NTID*/
+ .tm-bn-ntid-aslc {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-hcia {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-intp {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-lead {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-msse {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-n3dg {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-naca {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nacc {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nact {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nais {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nast {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nbus {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-ncad {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-ncar {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-ncim {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-ncom {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-ndls {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-neng {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nets {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-ngrd {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-ngrp {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nhss {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nlst {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nmad {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nmth {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-npmt {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nsci {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-prfn {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 
