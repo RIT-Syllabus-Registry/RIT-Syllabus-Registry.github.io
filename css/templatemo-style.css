@@ -147,7 +147,7 @@ a:focus {
    background-color: #CC6030;
    color: white;
    display: block;
-   padding: 10px 27.4px;  
+   padding: 10px 24.35px;  
    -webkit-transition: all 0.3s ease;  
            transition: all 0.3s ease;
  }
@@ -158,6 +158,50 @@ a:focus {
    background-color: #CCCCCC;
    color: black
  }
+
+/*COLA*/
+.tm-cola1-nav { text-transform: uppercase; }
+.tm-cola1-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-cola1-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 15.35px;
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-cola1-nav a:hover,
+.tm-cola1-nav a:focus,
+.tm-cola1-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
+
+/*COLA*/
+.tm-cola2-nav { text-transform: uppercase; }
+.tm-cola2-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-cola2-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 16.25px;
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-cola2-nav a:hover,
+.tm-cola2-nav a:focus,
+.tm-cola2-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
 
 .tm-banner {
     width: 1460px;
@@ -237,6 +281,9 @@ a:focus {
  .tm-bn-gccis-hcin {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
+ .tm-bn-gccis-idea {
+  background: url(../img/placeholder.jpg) no-repeat center;
+ }
  .tm-bn-gccis-igme {
   background: url(../img/banner-igme.jpg) no-repeat center;
  }
@@ -256,7 +303,7 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
 
- /* Banners ASTP*/
+ /* Banners COS*/
   .tm-bn-cos-astp {
   background: url(../img/banner-astp.jpg) no-repeat center;
  }
@@ -371,6 +418,109 @@ a:focus {
  background: url(../img/placeholder.jpg) no-repeat center;
 }
 
+ /* Banners cola*/
+ .tm-bn-cola-anth {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cola-cogs {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-comm {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-crim {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-dhss {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-econ {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-engl {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-fnrt {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-hist {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-ings {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-itdl {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-ling {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlar {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlas {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlch {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlcu {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlfr {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlit {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mljp {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlpo {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlru {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlsp {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-mlst {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-muse {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-phil {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-pols {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-prfl {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-psyc {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-publ {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-soci {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-spsy {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-stso {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-visl {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-cola-wgst {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
 
 .tm-banner-text { 
 	position: relative; 
