@@ -260,7 +260,7 @@ a:focus {
   background-color: #CC6030;
   color: white;
   display: block;
-  padding: 10px 21.6px;
+  padding: 10px 19.03px;
   -webkit-transition: all 0.3s ease;  
           transition: all 0.3s ease;
 }
@@ -673,6 +673,9 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-ntid-nais {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-ntid-nasl {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-ntid-nast {
