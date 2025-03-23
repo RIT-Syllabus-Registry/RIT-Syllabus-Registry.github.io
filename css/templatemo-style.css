@@ -72,6 +72,28 @@ a:focus {
   color: black
 }
 
+/*CHST*/
+.tm-chst-nav { text-transform: uppercase; }
+.tm-chst-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-chst-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 21.75px;  
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-chst-nav a:hover,
+.tm-chst-nav a:focus,
+.tm-chst-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
+
 /*KGCOE*/
 .tm-kgcoe-nav { text-transform: uppercase; }
 .tm-kgcoe-nav li {
@@ -152,7 +174,7 @@ a:focus {
             align-items: flex-end;
 }
 
-/* Banners */
+/* Banners KGCOE*/
 .tm-bn-home {
 	background: url(../img/banner-home.jpg) no-repeat center;
 }
@@ -192,6 +214,8 @@ a:focus {
  .tm-bn-kgcoe-miep {
 	background: url(../img/placeholder.jpg) no-repeat center;
 }
+
+/* Banners GCCIS*/
  .tm-bn-gccis-cint {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
@@ -231,6 +255,8 @@ a:focus {
  .tm-bn-gccis-swen {
   background: url(../img/placeholder.jpg) no-repeat center;
  }
+
+ /* Banners ASTP*/
   .tm-bn-cos-astp {
   background: url(../img/banner-astp.jpg) no-repeat center;
  }
@@ -300,6 +326,51 @@ a:focus {
   .tm-bn-cos-stat {
   background: url(../img/banner-stat.jpg) no-repeat center;
  }
+
+/* Banners CHST*/
+ .tm-bn-chst-bhns {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-dchp {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-dmso {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-echo {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-exsc {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-glph {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-hlth {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-illm {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-medg {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-meds {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-nutr {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-phya {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-pmed {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-chst-wshn {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+
 
 .tm-banner-text { 
 	position: relative; 
