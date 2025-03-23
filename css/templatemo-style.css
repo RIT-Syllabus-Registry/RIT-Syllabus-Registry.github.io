@@ -12,6 +12,9 @@ http://www.templatemo.com/tm-470-metro-city
  * Gray         #b0b0b0
  * Dark Gray    #4f4f4f
  */
+
+
+/* General */
 * { font-family: 'Open Sans', sans-serif; }
 body {
   background: #1d1d1d;
@@ -69,6 +72,28 @@ a:focus {
 .tm-nav a:focus,
 .tm-nav a.active {
   background-color: #ffffff;
+  color: black
+}
+
+/*CET*/
+.tm-cet-nav { text-transform: uppercase; }
+.tm-cet-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-cet-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 15.55px;  
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-cet-nav a:hover,
+.tm-cet-nav a:focus,
+.tm-cet-nav a.active {
+  background-color: #CCCCCC;
   color: black
 }
 
@@ -415,6 +440,59 @@ a:focus {
  background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-chst-wshn {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+
+/* Banners CET*/
+ .tm-bn-cet-conm {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-cpet {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-cvet {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-eeet {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-emet {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-engt {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-eshs {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-grcs {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-hrde {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-maat {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-mcet {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-meca {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-mfet {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-pack {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-pprt {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-rmet {
+ background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cet-tcet {
  background: url(../img/placeholder.jpg) no-repeat center;
 }
 
