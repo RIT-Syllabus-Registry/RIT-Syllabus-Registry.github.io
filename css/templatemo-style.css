@@ -272,6 +272,50 @@ a:focus {
   color: black
 }
 
+/*CAD*/
+.tm-cad-nav { text-transform: uppercase; }
+.tm-cad-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-cad-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 19.03px;
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-cad-nav a:hover,
+.tm-cad-nav a:focus,
+.tm-cad-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
+
+/*CAD*/
+.tm-cad2-nav { text-transform: uppercase; }
+.tm-cad2-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-cad2-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 19.03px;
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-cad2-nav a:hover,
+.tm-cad2-nav a:focus,
+.tm-cad2-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
+
 .tm-banner {
     width: 1460px;
     height: 553px;
@@ -732,6 +776,120 @@ a:focus {
 .tm-bn-ntid-prfn {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
+
+/* Banners CAD*/
+ .tm-bn-cad-ared {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-arth {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-artx {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-ccer {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-cgls {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-cmtj {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-cwfd {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-cwtd {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-dddd {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-fdtn {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-fnas {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-gama {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-grde {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-idde {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-idea {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-illm {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-ills {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-imsm {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-inde {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-ingd {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-itdi {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-nmde {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-pait {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-phap {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-phar {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-phfa {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-phgr {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-phms {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-phpj {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-phps {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-phvm {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-prnt {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-scul {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-sofa {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-star {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-uxde {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+ .tm-bn-cad-vcde {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+
 
 .tm-banner-text { 
 	position: relative; 
