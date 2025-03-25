@@ -352,6 +352,22 @@ a:focus {
   -webkit-transition: all 0.3s ease;  
           transition: all 0.3s ease;
 }
+
+/*OTHER*/
+.tm-other-nav { text-transform: uppercase; }
+.tm-other-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-other-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 33px;
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+
 .mobile-menu-icon { display: none; }
 .tm-sois-nav a:hover,
 .tm-sois-nav a:focus,
@@ -457,6 +473,16 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 
+/* Banners Other*/
+.tm-bn-home {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-other-arch {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-other-isus {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
 
 /* Banners KGCOE*/
 .tm-bn-home {
