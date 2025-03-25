@@ -316,6 +316,28 @@ a:focus {
   color: black
 }
 
+/*SCB*/
+.tm-scb-nav { text-transform: uppercase; }
+.tm-scb-nav li {
+  float: left;
+  list-style: none;
+}
+.tm-scb-nav a {
+  background-color: #CC6030;
+  color: white;
+  display: block;
+  padding: 10px 26px;
+  -webkit-transition: all 0.3s ease;  
+          transition: all 0.3s ease;
+}
+.mobile-menu-icon { display: none; }
+.tm-scb-nav a:hover,
+.tm-scb-nav a:focus,
+.tm-scb-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
+
 .tm-banner {
     width: 1460px;
     height: 553px;
@@ -330,6 +352,51 @@ a:focus {
         -ms-flex-align: end;
             align-items: flex-end;
 }
+
+/* Banners SCB*/
+.tm-bn-home {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-acct {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-bana {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-bleg {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-decs {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-escb {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-finc {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-hrde {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-hspt {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-intb {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-mgis {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-mgmt {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-mktg {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+.tm-bn-scb-serq {
+  background: url(../img/placeholder.jpg) no-repeat center;
+}
+
 
 /* Banners KGCOE*/
 .tm-bn-home {
