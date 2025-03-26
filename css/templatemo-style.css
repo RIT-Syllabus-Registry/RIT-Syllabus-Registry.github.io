@@ -414,7 +414,7 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-sois-mtsc {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-mtsc.jpg) no-repeat center;
 }
 .tm-bn-sois-prof {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -440,7 +440,7 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-scb-acct {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-acct.jpg) no-repeat center;
 }
 .tm-bn-scb-bana {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -461,10 +461,10 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-scb-hspt {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-hspt.jpg) no-repeat center;
 }
 .tm-bn-scb-intb {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-intb.jpg) no-repeat center;
 }
 .tm-bn-scb-mgis {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -487,13 +487,13 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-other-isus {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-isus.jpg) no-repeat center;
 }
 
-/* Banners KGCOE*/
 .tm-bn-home {
 	background: url(../img/banner-home.jpg) no-repeat center;
 }
+/* Banners KGCOE*/
 .tm-bn-kgcoe-bcep {
 	background: url(../img/banner-bcep.jpg) no-repeat center;
 }
@@ -501,7 +501,7 @@ a:focus {
 	background: url(../img/banner-bime.jpg) no-repeat center;
 }
 .tm-bn-kgcoe-chme {
-  background: url(../img/banner-chme.jpg) no-repeat center;
+  background: url(../img/placeholder.jpg) no-repeat center;
  }
 .tm-bn-kgcoe-cmpe {
 	background: url(../img/banner-cmpe.jpg) no-repeat center;
@@ -510,16 +510,16 @@ a:focus {
   background: url(../img/banner-eeee.jpg) no-repeat center;
  }
  .tm-bn-kgcoe-egen {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-egen.jpg) no-repeat center;
  }
  .tm-bn-kgcoe-engr {
-	background: url(../img/placeholder.jpg) no-repeat center;
+	background: url(../img/banner-engr.jpg) no-repeat center;
 }
  .tm-bn-kgcoe-isee{
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-isee.jpg) no-repeat center;
  }
  .tm-bn-kgcoe-mcee {
-  background: url(../img/banner-mcee.jpg) no-repeat center;
+  background: url(../img/placeholder.jpg) no-repeat center;
  }
  .tm-bn-kgcoe-mcse {
 	background: url(../img/banner-mcse.jpg) no-repeat center;
@@ -528,7 +528,7 @@ a:focus {
   background: url(../img/banner-mece.jpg) no-repeat center;
  }
  .tm-bn-kgcoe-miep {
-	background: url(../img/placeholder.jpg) no-repeat center;
+	background: url(../img/banner-miep.jpg) no-repeat center;
 }
 
 /* Banners GCCIS*/
@@ -654,10 +654,10 @@ a:focus {
  background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-chst-dmso {
- background: url(../img/placeholder.jpg) no-repeat center;
+ background: url(../img/banner-dmso.jpg) no-repeat center;
 }
  .tm-bn-chst-echo {
- background: url(../img/placeholder.jpg) no-repeat center;
+ background: url(../img/banner-echo.jpg) no-repeat center;
 }
  .tm-bn-chst-exsc {
  background: url(../img/placeholder.jpg) no-repeat center;
@@ -675,7 +675,7 @@ a:focus {
  background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-chst-meds {
- background: url(../img/placeholder.jpg) no-repeat center;
+ background: url(../img/banner-meds.jpg) no-repeat center;
 }
  .tm-bn-chst-nutr {
  background: url(../img/placeholder.jpg) no-repeat center;
@@ -695,7 +695,7 @@ a:focus {
  background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-cet-cpet {
- background: url(../img/placeholder.jpg) no-repeat center;
+ background: url(../img/banner-cpet.jpg) no-repeat center;
 }
  .tm-bn-cet-cvet {
  background: url(../img/placeholder.jpg) no-repeat center;
@@ -751,7 +751,7 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-cola-comm {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-comm.jpg) no-repeat center;
 }
 .tm-bn-cola-crim {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -760,19 +760,19 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-cola-econ {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-econ.jpg) no-repeat center;
 }
 .tm-bn-cola-engl {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-engl.jpg) no-repeat center;
 }
 .tm-bn-cola-fnrt {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-cola-hist {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-hist.jpg) no-repeat center;
 }
 .tm-bn-cola-ings {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-ings.jpg) no-repeat center;
 }
 .tm-bn-cola-itdl {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -787,19 +787,19 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-cola-mlch {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-mlch.jpg) no-repeat center;
 }
 .tm-bn-cola-mlcu {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-mlcu.jpg) no-repeat center;
 }
 .tm-bn-cola-mlfr {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-mlfr.jpg) no-repeat center;
 }
 .tm-bn-cola-mlit {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-cola-mljp {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-mljp.jpg) no-repeat center;
 }
 .tm-bn-cola-mlpo {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -808,7 +808,7 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
 .tm-bn-cola-mlsp {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-mlsp.jpg) no-repeat center;
 }
 .tm-bn-cola-mlst {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -956,13 +956,13 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-cad-cwfd {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-cwfd.jpg) no-repeat center;
 }
  .tm-bn-cad-cwtd {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-cad-dddd {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-dddd.jpg) no-repeat center;
 }
  .tm-bn-cad-fdtn {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -977,7 +977,7 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-cad-idde {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-idde.jpg) no-repeat center;
 }
  .tm-bn-cad-idea {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -986,13 +986,13 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-cad-ills {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-ills.jpg) no-repeat center;
 }
  .tm-bn-cad-imsm {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-cad-inde {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-inde.jpg) no-repeat center;
 }
  .tm-bn-cad-ingd {
   background: url(../img/placeholder.jpg) no-repeat center;
@@ -1037,7 +1037,7 @@ a:focus {
   background: url(../img/placeholder.jpg) no-repeat center;
 }
  .tm-bn-cad-sofa {
-  background: url(../img/placeholder.jpg) no-repeat center;
+  background: url(../img/banner-sofa.jpg) no-repeat center;
 }
  .tm-bn-cad-star {
   background: url(../img/placeholder.jpg) no-repeat center;
