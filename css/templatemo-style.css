@@ -352,6 +352,13 @@ a:focus {
   -webkit-transition: all 0.3s ease;  
           transition: all 0.3s ease;
 }
+.mobile-menu-icon { display: none; }
+.tm-sois-nav a:hover,
+.tm-sois-nav a:focus,
+.tm-sois-nav a.active {
+  background-color: #CCCCCC;
+  color: black
+}
 
 /*OTHER*/
 .tm-other-nav { text-transform: uppercase; }
@@ -367,11 +374,10 @@ a:focus {
   -webkit-transition: all 0.3s ease;  
           transition: all 0.3s ease;
 }
-
 .mobile-menu-icon { display: none; }
-.tm-sois-nav a:hover,
-.tm-sois-nav a:focus,
-.tm-sois-nav a.active {
+.tm-other-nav a:hover,
+.tm-other-nav a:focus,
+.tm-other-nav a.active {
   background-color: #CCCCCC;
   color: black
 }
