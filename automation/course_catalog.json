@@ -130,73 +130,73 @@
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Computing Exploration Seminar",
     "ID": "CINT-101",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Introduction to Cybersecurity",
     "ID": "CSEC-140",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Programming for Information Security",
     "ID": "CSEC-201",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Reverse Engineering Fundamentals",
     "ID": "CSEC-202",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Trusted Computing and Trusted Execution",
     "ID": "CSEC-530",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Introduction to Geospatial Technologies",
     "ID": "IGME-382",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Introduction to Geographic Information Systems",
     "ID": "IGME-384",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Web and Mobile I",
     "ID": "ISTE-140",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Introduction to Database and Data Modeling",
     "ID": "ISTE-230",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Web and Mobile II",
     "ID": "ISTE-240",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Foundations of Mobile Design",
     "ID": "ISTE-252",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Server Programming",
     "ID": "ISTE-341",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Introduction to Routing and Switching",
     "ID": "NSSA-241",
     "DESC": "todo"
 }
 ,
 {
-    "TITLE": "todo",
+    "TITLE": "Introduction to Software Engineering",
     "ID": "SWEN-261",
     "DESC": "todo"
 }

@@ -53,9 +53,7 @@ def build_title(code,number):
 
 # Find what college the course ID belongs to.
 #   INPUT: course_code - four letter code defining what department the course falls into
-#   OUTPUT: banner list entry, defined as follows:
-#               Index 0: College course banner HTML file path
-#               Index 1: College abbreviation.
+#   OUTPUT: college (e.g., kgcoe, gccis, cos) as a string
 def find_course_college(course_code):
     # Build the lookup and replacement string for whatever course we're looking for.
     id_str = f"{LOOKUP_OPENER}{course_code}{LOOKUP_ACTIVE}{LOOKUP_CLOSER}"
