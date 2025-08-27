@@ -60,13 +60,144 @@
     "DESC": "todo"
 },
 {
-    "TITLE": "Computer Science I",
-    "ID": "CSCI-141",
-    "DESC": "This course serves as an introduction to computational thinking using a problem-centered approach. Specific topics covered include: expression of algorithms in pseudo code and a programming language; functional and imperative programming techniques; control structures; problem solving using recursion; basic searching and sorting; elementary data structures such as lists, trees, and graphs; and correctness, testing and debugging. Assignments (both in class and for homework) requiring a pseudo code solution and an implementation are an integral part of the course. An end-of-term project is also required."
+    "TITLE": "Circuits I",
+    "ID": "EEEE-281",
+    "DESC": "todo"
 },
 {
     "TITLE": "Digital Electronics",
     "ID": "EEEE-380",
     "DESC": "This is an introductory course in digital MOS circuit analysis and design. The course covers the following topics: (1) MOSFET I-V behavior in aggressively scaled devices; (2) Static and dynamic characteristics of NMOS and CMOS inverters; (3) Combinational and sequential logic networks using CMOS technology; (4) Dynamic CMOS logic networks, including precharge-evaluate, domino and transmission gate circuits; (5) Special topics, including static and dynamic MOS memory, and interconnect RLC behavior. Prerequisites: EEEE-281 or equivalent course. "
+},
+{
+    "TITLE": "Introduction to Biomedical Engineering",
+    "ID": "BIME-181",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIME-191",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CSCI-99",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CSCI-140",
+    "DESC": "todo"
+},
+{
+    "TITLE": "Computer Science I",
+    "ID": "CSCI-141",
+    "DESC": "This course serves as an introduction to computational thinking using a problem-centered approach. Specific topics covered include: expression of algorithms in pseudo code and a programming language; functional and imperative programming techniques; control structures; problem solving using recursion; basic searching and sorting; elementary data structures such as lists, trees, and graphs; and correctness, testing and debugging. Assignments (both in class and for homework) requiring a pseudo code solution and an implementation are an integral part of the course. An end-of-term project is also required."
+},
+{
+    "TITLE": "todo",
+    "ID": "CSCI-142",
+    "DESC": "todo"
+},
+{
+    "TITLE": "The Mechanics of Programming",
+    "ID": "CSCI-243",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CSCI-261",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CSCI-320",
+    "DESC": "todo"
+},
+{
+    "TITLE": "Introduction to Artificial Intelligence",
+    "ID": "CSCI-331",
+    "DESC": "todo"
+},
+{
+    "TITLE": "Programming Language Concepts",
+    "ID": "CSCI-344",
+    "DESC": "todo"
+},
+{
+    "TITLE": "Introduction to Cryptography",
+    "ID": "CSCI-462",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CINT-101",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CSEC-140",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CSEC-201",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CSEC-202",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "CSEC-530",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "IGME-382",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "IGME-384",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "ISTE-140",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "ISTE-230",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "ISTE-240",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "ISTE-252",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "ISTE-341",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "NSSA-241",
+    "DESC": "todo"
+}
+,
+{
+    "TITLE": "todo",
+    "ID": "SWEN-261",
+    "DESC": "todo"
 }
 ]
