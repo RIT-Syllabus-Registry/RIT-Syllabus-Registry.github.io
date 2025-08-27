@@ -80,12 +80,12 @@
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Computer Science Undergraduate Co-op Seminar",
     "ID": "CSCI-99",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Computer Science for Advanced Placement Students",
     "ID": "CSCI-140",
     "DESC": "todo"
 },
@@ -95,7 +95,7 @@
     "DESC": "This course serves as an introduction to computational thinking using a problem-centered approach. Specific topics covered include: expression of algorithms in pseudo code and a programming language; functional and imperative programming techniques; control structures; problem solving using recursion; basic searching and sorting; elementary data structures such as lists, trees, and graphs; and correctness, testing and debugging. Assignments (both in class and for homework) requiring a pseudo code solution and an implementation are an integral part of the course. An end-of-term project is also required."
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Computer Science II",
     "ID": "CSCI-142",
     "DESC": "todo"
 },
@@ -105,12 +105,12 @@
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Analysis of Algorithms",
     "ID": "CSCI-261",
     "DESC": "todo"
 },
 {
-    "TITLE": "todo",
+    "TITLE": "Principles of Data Management",
     "ID": "CSCI-320",
     "DESC": "todo"
 },
