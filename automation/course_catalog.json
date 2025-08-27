@@ -193,11 +193,80 @@
     "TITLE": "Introduction to Routing and Switching",
     "ID": "NSSA-241",
     "DESC": "todo"
-}
-,
+},
 {
     "TITLE": "Introduction to Software Engineering",
     "ID": "SWEN-261",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-101",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-102",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-103",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-104",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-130",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-206",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-211",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-216",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-240",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-265",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-302",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-311",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-315",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIOL-321",
     "DESC": "todo"
 }
 ]
