@@ -181,14 +181,14 @@ if __name__ == "__main__":
     courses_json = json.load(f_courses)
     f_courses.close()
     
-    # Reset all courses to remove entries.
     done_codes = []
     for course in courses_json:
-        code = course[JSON_CODE].split("-")[0]
-        if code not in done_codes:
-            done_codes.append(code)
-            reset_course_list(code)
-    for course in courses_json:
+        # Reset all courses to remove entries.
         input_course = course[JSON_CODE].split("-")
+        if input_course[0] not in done_codes:
+            done_codes.append(input_course[0])
+            reset_course_list(input_course[0])
+
+        # Build the course page and add its link to the course code page.
         build_course_page(input_course[0], input_course[1])
         update_course_list(input_course[0], input_course[1], course[JSON_TITLE], course[JSON_DESCRIPTION])
