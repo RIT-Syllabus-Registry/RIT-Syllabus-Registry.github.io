@@ -316,7 +316,7 @@
 },
 {
     "TITLE": "231",
-    "ID": "CHMO-146",
+    "ID": "CHMO-231",
     "DESC": "todo"
 },
 {
@@ -362,6 +362,91 @@
 {
     "TITLE": "todo",
     "ID": "ENVS-152H",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-181",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-182",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-190",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-199",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-200",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-211",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-219",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-231",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-233",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-241",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-251",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-341",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-361",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-412",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-421",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-431",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "MATH-441",
     "DESC": "todo"
 }
 ]
