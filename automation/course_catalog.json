@@ -1,5 +1,20 @@
 [
 {
+    "TITLE": "Introduction to Biomedical Engineering",
+    "ID": "BIME-181",
+    "DESC": "todo"
+},
+{
+    "TITLE": "todo",
+    "ID": "BIME-191",
+    "DESC": "todo"
+},
+{
+    "TITLE": "Multi-Disciplinary Senior Design I",
+    "ID": "BIME-497",
+    "DESC": "This is the first in a two-course sequence oriented to the solution of real-world engineering design problems. This is a capstone learning experience that integrates engineering theory, principles, and processes within a collaborative environment. Multidisciplinary student teams follow a systems engineering design process, which includes assessing customer needs, developing engineering specifications, generating and evaluating concepts, choosing an approach, developing the details of the design, and implementing the design to the extent feasible, for example by building and testing a prototype or implementing a chosen set of improvements to a process. This first course focuses primarily on defining the problem and developing the design, but may include elements of build/ implementation. The second course may include elements of design, but focuses on build/implementation and communicating information about the final design. Prerequisites: BIME-499 or equivalent course and restricted to KGCOE students with 5th year standing."
+},
+{
     "TITLE": "Introduction to Computer Engineering",
     "ID": "CMPE-110",
     "DESC": "This course overviews the field of computer engineering, the computer engineering curriculum at RIT, and research and career opportunities. The topics covered include basic circuit analysis, number systems, digital logic, programming, robotics, laboratory equipment, teamwork, critical thinking, technical writing, modern and contemporary issues, ethics, diversity, and communication skills."
@@ -40,6 +55,11 @@
     "DESC": "todo"
 },
 {
+    "TITLE": "Multi-Disciplinary Senior Design I",
+    "ID": "CMPE-497",
+    "DESC": "This is the first in a two-course sequence oriented to the solution of real-world engineering design problems. This is a capstone learning experience that integrates engineering theory, principles, and processes within a collaborative environment. Multidisciplinary student teams follow a systems engineering design process, which includes assessing customer needs, developing engineering specifications, generating and evaluating concepts, choosing an approach, developing the details of the design, and implementing the design to the extent feasible, for example by building and testing a prototype or implementing a chosen set of improvements to a process. This first course focuses primarily on defining the problem and developing the design, but may include elements of build/ implementation. The second course may include elements of design, but focuses on build/implementation and communicating information about the final design. Prerequisites: CMPE-460 and at least 4th year standing in CMPE-BS with a minimum of 2 terms of co-op completed.  "
+},
+{
     "TITLE": "Reconfigurable Computing",
     "ID": "CMPE-660",
     "DESC": "todo"
@@ -70,14 +90,19 @@
     "DESC": "This is an introductory course in digital MOS circuit analysis and design. The course covers the following topics: (1) MOSFET I-V behavior in aggressively scaled devices; (2) Static and dynamic characteristics of NMOS and CMOS inverters; (3) Combinational and sequential logic networks using CMOS technology; (4) Dynamic CMOS logic networks, including precharge-evaluate, domino and transmission gate circuits; (5) Special topics, including static and dynamic MOS memory, and interconnect RLC behavior. Prerequisites: EEEE-281 or equivalent course. "
 },
 {
-    "TITLE": "Introduction to Biomedical Engineering",
-    "ID": "BIME-181",
-    "DESC": "todo"
+    "TITLE": "Multi-Disciplinary Senior Design I",
+    "ID": "EEEE-497",
+    "DESC": "This is the first in a two-course sequence oriented to the solution of real-world engineering design problems. This is a capstone learning experience that integrates engineering theory, principles, and processes within a collaborative environment. Multidisciplinary student teams follow a systems engineering design process, which includes assessing customer needs, developing engineering specifications, generating and evaluating concepts, choosing an approach, developing the details of the design, and implementing the design to the extent feasible, for example by building and testing a prototype or implementing a chosen set of improvements to a process. This first course focuses primarily on defining the problem and developing the design, but may include elements of build/ implementation. The second course may include elements of design, but focuses on build/implementation and communicating information about the final design. Prerequisites: EEEE-374 and EEEE-414 and EEEE-420 and EEEE-480 and two co-ops (EEEE-499).  "
 },
 {
-    "TITLE": "todo",
-    "ID": "BIME-191",
-    "DESC": "todo"
+    "TITLE": "Multi-Disciplinary Senior Design I",
+    "ID": "ISEE-497",
+    "DESC": "This is the first in a two-course sequence oriented to the solution of real world engineering design problems. This is a capstone learning experience that integrates engineering theory, principles, and processes within a collaborative environment. Multidisciplinary student teams follow a systems engineering design process, which includes assessing customer needs, developing engineering specifications, generating and evaluating concepts, choosing an approach, developing the details of the design, and implementing the design to the extent feasible, for example by building and testing a prototype or implementing a chosen set of improvements to a process. This first course focuses primarily on defining the problem and developing the design, but may include elements of build/ implementation. The second course may include elements of design, but focuses on build/implementation and communicating information about the final design. Prerequisites: ISEE-323 and ISEE-330 or equivalent course. Co-requisites: ISEE-350 and ISEE-420 and ISEE-510 and ISEE-560 or equivalent course."
+},
+{
+    "TITLE": "Multi-Disciplinary Senior Design I",
+    "ID": "MECE-497",
+    "DESC": "This is the first in a two-course sequence oriented to the solution of real-world engineering design problems. This is a capstone learning experience that integrates engineering theory, principles, and processes within a collaborative environment. Multidisciplinary student teams follow a systems engineering design process, which includes assessing customer needs, developing engineering specifications, generating and evaluating concepts, choosing an approach, developing the details of the design, and implementing the design to the extent feasible, for example by building and testing a prototype or implementing a chosen set of improvements to a process. This first course focuses primarily on defining the problem and developing the design, but may include elements of build/ implementation. The second course may include elements of design, but focuses on build/implementation and communicating information about the final design. Prerequisites: MECE-301 and MECE-499 or equivalent courses. This course is restricted to MECE-BS or MECEDU-BS students."
 },
 {
     "TITLE": "Computer Science Undergraduate Co-op Seminar",
@@ -125,8 +150,18 @@
     "DESC": "todo"
 },
 {
+    "TITLE": "Operating Systems",
+    "ID": "CSCI-352",
+    "DESC": "todo"
+},
+{
     "TITLE": "Introduction to Cryptography",
     "ID": "CSCI-462",
+    "DESC": "todo"
+},
+{
+    "TITLE": "Professional Communications",
+    "ID": "CSCI-471",
     "DESC": "todo"
 },
 {
