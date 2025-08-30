@@ -450,6 +450,16 @@
     "DESC": "todo"
 },
 {
+    "TITLE": "Solid State Physics",
+    "ID": "MSTE-632",
+    "DESC": "todo"
+},
+{
+    "TITLE": "Theoretical Methods for Materials Sciences",
+    "ID": "MSTE-704",
+    "DESC": "todo"
+},
+{
     "TITLE": "Special Relativity",
     "ID": "PHYS-150",
     "DESC": "todo"
@@ -527,6 +537,11 @@
 {
     "TITLE": "Electricity and Magnetism",
     "ID": "PHYS-411",
+    "DESC": "todo"
+},
+{
+    "TITLE": "Solid State Physics",
+    "ID": "PHYS-532",
     "DESC": "todo"
 },
 {
