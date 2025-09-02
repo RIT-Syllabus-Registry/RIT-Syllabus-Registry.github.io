@@ -52,7 +52,7 @@
 {
     "TITLE": "Digital Signal Processing",
     "ID": "CMPE-480",
-    "DESC": "todo"
+    "DESC": "This course introduces the basic elements of continuous and discrete time signals and systems and fundamental signal processing techniques, such as FIR and IIR Filtering, the Fourier transform, the Discrete Fourier transform and the z transform. Theory is strengthened through MATLAB-based projects and exercises. Prerequisites: MATH-231 and MATH-241 and EEEE-282 or equivalent courses."
 },
 {
     "TITLE": "Multi-Disciplinary Senior Design I",
@@ -62,17 +62,17 @@
 {
     "TITLE": "Reconfigurable Computing",
     "ID": "CMPE-660",
-    "DESC": "todo"
+    "DESC": "The objective of this course is to present the foundations of reconfigurable computing methodologies from both hardware and software perspectives. Topics covered are: architectures of modern field programmable gate arrays (FPGAs), digital system design methodologies using FPGAs, hardware-software co-design with embedded processors, hardware optimization techniques, system level integration under operating system, dynamic reconfiguration. Laboratory projects in which students will acquire a solid capability of Xilinx CAD tools and FPGA devices are required. The projects include the whole design flow: design of the system, VHDL modeling, software and hardware development, FPGA verification. Prerequisites: CMPE-260 or equivalent course or graduate standing in the CMPE-MS program."
 },
 {
     "TITLE": "Hardware/Software Codesign for Cryptographic Applications",
-    "ID": "CMPE-660",
-    "DESC": "todo"
+    "ID": "CMPE-661",
+    "DESC": "The objective of this course is to build knowledge and skills necessary for efficient implementations of cryptographic primitives on reconfigurable hardware. The implementation platform will be a field programmable gate array (FPGA) containing a general purpose processor and additional reconfigurable fabric for implementations of custom hardware accelerators. In the studio format, team projects require design of selected cryptographic primitives followed by comparison and contrast of various implementation alternatives, such as software, custom FPGA hardware, and hybrid hardware-software co-design. Project teams are ideally composed of one Computer Engineering student and one Software Engineering or Computer Science student. Computer Engineering students lead the hardware design portions of each project, and Software Engineering and Computer Science students lead the software development portions. Topics may include binary finite field arithmetic, block ciphers, hash functions, counter mode of operation for block ciphers, public key cryptosystems, hardware/software co-design methodologies with FPGAs, software development and profiling, high level synthesis, on-chip buses, hardware/software interfaces, custom hardware accelerators and side channel attacks. Prerequisites: CMPE-260 or CMPE-240 or equivalent course or graduate standing in the CMPE-MS program."
 },
 {
     "TITLE": "Deep Learning",
     "ID": "CMPE-679",
-    "DESC": "todo"
+    "DESC": "Deep learning has been revolutionizing the fields of object detection, classification, speech recognition, natural language processing, action recognition, scene understanding, and general pattern recognition. In some cases, results are on par with and even surpass the abilities of humans. Activity in this space is pervasive, ranging from academic institutions to small startups to large corporations. This course emphasizes convolutional neural networks (CNNs) and recurrent neural networks (RNNs), but additionally covers reinforcement learning and generative adversarial networks. In addition to achieving a comprehensive theoretical understanding, students will understand current state-of-the-art methods, and get hands-on experience at training custom models using popular deep learning frameworks. Prerequisites: CMPE-677 or equivalent course and students in CMPE-BS or CMPE-MS programs."
 },
 {
     "TITLE": "Special Topics",
@@ -107,12 +107,12 @@
 {
     "TITLE": "Computer Science Undergraduate Co-op Seminar",
     "ID": "CSCI-99",
-    "DESC": "todo"
+    "DESC": "This seminar helps students prepare for Computer Science co-operative education employment (“co-op”) by developing job search strategies and materials, and reviewing relevant policies. Students are introduced to RIT’s Office of Career Services and Cooperative Education, and learn about professional, legal, and ethical responsibilities for their co-op and subsequent professional experiences. Completion of this seminar and the related assignments are required before a CS student can be registered for co-op. The seminar will also review various curricular options and program requirements for CS undergraduate students. Prerequisites: This class is restricted to COMPSCI-BS or COMPEX-UND Major students with at least 2nd year standing."
 },
 {
     "TITLE": "Computer Science for Advanced Placement Students",
     "ID": "CSCI-140",
-    "DESC": "todo"
+    "DESC": "This accelerated course covers material from the first-year sequence of courses and provides the foundation for all subsequent Computer Science courses. The course stresses problem solving while covering modern software development techniques and introducing essential software tools. Topics include tree and graph structures, nested data structures, objects, classes, inheritance, interfaces, object-oriented collection class libraries for abstract data types (e.g. stacks, queues, maps, and trees), and static vs. dynamic data types. Concepts of object-oriented design are a large part of the course. Software qualities related to object orientation, namely cohesion, minimal coupling, modifiability, and extensibility, are all introduced in this course, as well as a few elementary object-oriented design patterns. Input and output streams, graphical user interfaces, and exception handling are covered. Note: Requires department permission for registration."
 },
 {
     "TITLE": "Computer Science I",
@@ -122,67 +122,67 @@
 {
     "TITLE": "Computer Science II",
     "ID": "CSCI-142",
-    "DESC": "todo"
+    "DESC": "This course delves further into problem solving by continuing the discussion of data structure use and design, but now from an object-oriented perspective. Key topics include more information on tree and graph structures, nested data structures, objects, classes, inheritance, interfaces, object-oriented collection class libraries for abstract data types (e.g. stacks, queues, maps, and trees), and static vs. dynamic data types. Concepts of object-oriented design are a large part of the course. Software qualities related to object orientation, namely cohesion, minimal coupling, modifiability, and extensibility, are all introduced in this course, as well as a few elementary object-oriented design patterns. Input and output streams, graphical user interfaces, and exception handling are covered. Students will also be introduced to a modern integrated software development environment (IDE). Programming projects will be required. Prerequisites: CSCI-141 with a grade of C- or better or equivalent course."
 },
 {
     "TITLE": "The Mechanics of Programming",
     "ID": "CSCI-243",
-    "DESC": "todo"
+    "DESC": "Students will be introduced to the details of program structure and the mechanics of execution as well as supportive operating system features. Security and performance issues in program design will be discussed. The program translation process will be examined. Programming assignments will be required. Prerequisite: C- or better in CSCI-140 or CSCI-142 or CSCI-242 or SWEN-124 or CSEC-124 or GCIS-124 or GCIS-127 or equivalent course."
 },
 {
     "TITLE": "Analysis of Algorithms",
     "ID": "CSCI-261",
-    "DESC": "todo"
+    "DESC": "This course provides an introduction to the design and analysis of algorithms. It covers a variety of classical algorithms and data structures and their complexity and will equip students with the intellectual tools to design, analyze, implement, and evaluate their own algorithms. Prerequisites:(CSCI-243 and (CSCI-262 or CSCI-263)) or (SWEN-262 and MATH-241) or equivalent courses."
 },
 {
     "TITLE": "Principles of Data Management",
     "ID": "CSCI-320",
-    "DESC": "todo"
+    "DESC": "This course provides a broad introduction to the principles and practice of modern data management, with an emphasis on the relational database model. Topics in relational database systems include data modeling; the relational model; relational algebra; Structured Query Language (SQL); and data quality, transactions, integrity and security. Students will also learn approaches to building relational database application programs. Additional topics include object-oriented and object-relational databases; semi-structured databases (such as XML); and information retrieval. A database project is required. Prerequisites: (MATH-190 or MATH-200) and (CSCI-140 or CSCI-142 or CSCI-242 or SWEN-124 or CSEC-124 or GCIS-124 or GCIS-127) or equivalent courses."
 },
 {
     "TITLE": "Introduction to Artificial Intelligence",
     "ID": "CSCI-331",
-    "DESC": "todo"
+    "DESC": "An introduction to the theories and algorithms used to create artificial intelligence (AI) systems. Topics include search algorithms, logic, planning, machine learning, and applications from areas such as computer vision, robotics, and natural language processing. Programming assignments are an integral part of the course. Prerequisites: (CSCI-243 or SWEN-262) and (MATH-251 or STAT-205) or equivalent courses. Students cannot take and receive credit for this course if they have taken CSCI-630."
 },
 {
     "TITLE": "Programming Language Concepts",
     "ID": "CSCI-344",
-    "DESC": "todo"
+    "DESC": "This course is a study of the syntax and semantics of a diverse set of high-level programming languages. The languages chosen are compared and contrasted in order to demonstrate general principles of programming language design and implementation. The course emphasizes the concepts underpinning modern languages rather than the mastery of particular language details. Programming projects will be required. Prerequisites: CSCI-243 or SWEN-250 or IGME-309 or 4003-334 or 4010-361 or 4080-487) and (MATH-190 or MATH-200) or equivalent courses."
 },
 {
     "TITLE": "Operating Systems",
     "ID": "CSCI-352",
-    "DESC": "todo"
+    "DESC": "An in-depth study of operating system concepts. Topics include process synchronization, interprocess communication, deadlock, multiprogramming and multiprocessing, processor scheduling and resource management, memory management, static and dynamic relocation, virtual memory, file systems, logical and physical I/O, device allocation, I/O processor scheduling, process and resource protection. Programming projects involving the development of or modification to operating system kernel features will be required. Prerequisites: CSCI-250 or CMPE-350 or SWEN-340 or equivalent course."
 },
 {
     "TITLE": "Introduction to Cryptography",
     "ID": "CSCI-462",
-    "DESC": "todo"
+    "DESC": "This course provides an introduction to cryptography, its mathematical foundations, and its relation to security. It covers classical cryptosystems, private-key cryptosystems (including DES and AES), hashing and public-key cryptosystems (including RSA). The course also provides an introduction to data integrity and authentication. Students cannot take and receive credit for this course if they have credit for CSCI-662. Prerequisites: (CSCI-243 or SWEN-262 or CSEC-202) and (MATH-190 or MATH-200) or equivalent courses."
 },
 {
     "TITLE": "Professional Communications",
     "ID": "CSCI-471",
-    "DESC": "todo"
+    "DESC": "This course focuses on developing and improving verbal and written communication skills specific to the discipline of computer science. Topics include the different forms of writing in computer science (books, theses, journal articles, technical reports, manuscripts, etc.), writing styles of computer scientists, document readability and usability, documents for career readiness, effective presentations, teamwork and peer review, research methods, experimentation, documenting mathematics and algorithms, proper formatting of graphs, figures, and tables, and ethical, social, and professional issues facing Computer Scientists. This course is approved as Writing Intensive. Students cannot take and receive credit for this course if they have credit for CSCI-472."
 },
 {
     "TITLE": "Computing Exploration Seminar",
     "ID": "CINT-101",
-    "DESC": "todo"
+    "DESC": "A one credit-hour course for the Computing Exploration students, including an overview of the computing disciplines and an introduction to seven computing and informatics academic programs: Computer Science, Computing and Information Technologies, Computing Security, Human-Centered Computing, New Media Interactive Development, Software Engineering, Web and Mobile Computing, as well as a few other computing programs outside the college. Curricula requirements of the seven programs and career opportunities in the computing fields are discussed. Potential employers discuss job opportunities. Introductions to the faculty, students, and laboratory facilities of the seven programs are provided. Cooperative education, study abroad, and innovation fellowship program opportunities available to the students are explored."
 },
 {
     "TITLE": "Introduction to Cybersecurity",
     "ID": "CSEC-140",
-    "DESC": "todo"
+    "DESC": "This course will introduce many fundamental cybersecurity concepts. The course will teach students to think about information systems using an adversarial mindset, evaluate risk to information systems, and introduce controls that can be implemented to reduce risk. Topics will include authentication systems, data security and encryption, risk management and security regulatory frameworks, networking and system security, application security, organizational and human security considerations, and societal implications of cybersecurity issues. These topics will be discussed at an introductory level with a focus on applied learning through hands-on virtual lab exercises."
 },
 {
     "TITLE": "Programming for Information Security",
     "ID": "CSEC-201",
-    "DESC": "todo"
+    "DESC": "This course builds upon basic programming skills to give students the programming knowledge necessary to study computing security. Students will be introduced to network programming, memory management, and operating system calls along with associated security concepts. Specific focus will placed on understanding the compilation process and on the relation between high-level programming concepts and low-level programming concepts, culminating in identifying and exploiting memory corruption vulnerabilities. Prerequisites: (CSEC-101 or CSEC-140) and (CSCI-142 or GCIS-124 or GCIS-127 or CSCI-242) or equivalent courses."
 },
 {
     "TITLE": "Reverse Engineering Fundamentals",
     "ID": "CSEC-202",
-    "DESC": "todo"
+    "DESC": "This course will teach students the core concepts needed to analyze unknown source code. Students will study a variety of low-level programming languages and how high-level programming language structures relate to low-level programming languages. Students will learn study tools and techniques used for both static and dynamic analysis of unknown binaries, providing the foundation for further study in malware analysis. Prerequisite: CSEC-201 or equivalent course."
 },
 {
     "TITLE": "Trusted Computing and Trusted Execution",
@@ -287,22 +287,22 @@
 {
     "TITLE": "Cell Biology",
     "ID": "BIOL-302",
-    "DESC": "todo"
+    "DESC": "This course will address the fundamental concepts of cell biology. Class discussions, assignments, and laboratory projects will 1) Explore the structure-function relationships that drive cellular processes at the molecular, cellular and tissue level. 2) Investigate the mechanisms of cellular signaling and the transmission of genetic information. 3) Examine energy transformation strategies and the biochemical pathways used for synthesis and breakdown of ATP and other important biomolecules. 4) Investigate the organizational strategies used by cells to form functional tissue and organ systems. Prerequisites: (BIOL-206 and BIOL-216) or BIOL-201 or BIOL-202 or BIOG-240 or equivalent courses."
 },
 {
     "TITLE": "Introduction to Microbiology",
     "ID": "BIOL-311",
-    "DESC": "todo"
+    "DESC": "This course is an introduction to microorganisms and their importance. Principles of structure and function, metabolic diversity, taxonomy, environmental microbiology, and infectious diseases of bacteria and human immunology are discussed. Current concepts in microbiology including microbial communities and the microbiome will also be covered. Students will learn how to read and use the primary literature for microbiology. The class will also discuss political and ethical issues associated with microbiology. Basic laboratory techniques for bacteriology will be learned. These techniques include the use of a microscope to characterize organisms that have been stained using the Gram stain or the spore stain. Students will learn to isolate individual organisms from a mixture of bacteria. Students will learn to use metabolic tests and clinical and commercial testing protocols to identify specific bacteria. Students will detect and enumerate bacteria in food and water samples. The control of bacteria will be performed by testing antibiotic resistance and determining the efficacy of various disinfectants. Finally, each student will develop a hypothesis about a microbiological topic, design experiments, perform the work in the laboratory and write a paper about their findings. Prerequisites: BIOL-206 and BIOL-216 or equivalent courses."
 },
 {
     "TITLE": "Tissue Culture",
     "ID": "BIOL-315",
-    "DESC": "todo"
+    "DESC": "This course will address the fundamental skills and concepts required to culture and maintain mammalian cells in culture. Laboratory discussions, assignments and projects will allow students to develop basic eukaryotic tissue culture techniques and explore tissue culture techniques in modern research and medical applications. Prerequisites: BIOL-202 or (BIOL-206 and BIOL-216) or equivalent courses and students in BIOTECH-BS, BIOL-BS or NEURO-BS programs. Co-requisites: BIOL 302 or equivalent course.  "
 },
 {
     "TITLE": "Genetics",
     "ID": "BIOL-321",
-    "DESC": "todo"
+    "DESC": "Introduction to the principles of inheritance; the study of genes and chromosomes at molecular, cellular, organismal, and population levels. Prerequisites: (BIOL-206 and BIOL-216) or BIOL-201 or BIOL-202 or BIOG-240 or equivalent courses."
 },
 {
     "TITLE": "General Chemistry",
@@ -327,47 +327,47 @@
 {
     "TITLE": "Biochemistry I",
     "ID": "CHMB-402",
-    "DESC": "todo"
+    "DESC": "This course introduces the structure and function of biological macromolecules and their metabolic pathways. The relationship between the three-dimensional structure of proteins and their function in enzymatic catalysis will be examined. Membrane structure and the physical laws that apply to metabolic processes will also be discussed. Prerequisite: CHMO-231 or CHMO-331 or equivalent course."
 },
 {
     "TITLE": "General and Analytical Chemistry I",
     "ID": "CHMG-141",
-    "DESC": "todo"
+    "DESC": "This is a general chemistry course for students in the life and physical sciences. College chemistry is presented as a science based on empirical evidence that is placed into the context of conceptual, visual, and mathematical models. Students will learn the concepts, symbolism, and fundamental tools of chemistry necessary to carry on a discourse in the language of chemistry. Emphasis will be placed on the relationship between atomic structure, chemical bonds, and the transformation of these bonds through chemical reactions. The fundamentals of organic chemistry are introduced throughout the course to emphasize the connection between chemistry and the other sciences."
 },
 {
     "TITLE": "General and Analytical Chemistry II",
     "ID": "CHMG-142",
-    "DESC": "todo"
+    "DESC": "The course covers the thermodynamics and kinetics of chemical reactions. The relationship between energy and entropy change as the driving force of chemical processes is emphasized through the study of aqueous solutions. Specifically, the course takes a quantitative look at: 1) solubility equilibrium, 2) acid-base equilibrium, 3) oxidation-reduction reactions and 4) chemical kinetics. Prerequisites: CHMG-141 or CHMG-131 or equivalent course."
 },
 {
     "TITLE": "General and Analytical Chemistry Lab I",
     "ID": "CHMG-145",
-    "DESC": "todo"
+    "DESC": "The course combines hands-on laboratory exercises with workshop-style problem sessions to complement the CHMG-141 lecture material. The course emphasizes laboratory techniques and data analysis skills. Topics include: gravimetric, volumetric, thermal, titration and spectrophotometric analyses, and the use of these techniques to analyze chemical reactions. Prerequisite or Co-requisite: CHMG-141 or CHMG-131 or equivalent course."
 },
 {
     "TITLE": "General and Analytical Chemistry Lab II",
     "ID": "CHMG-146",
-    "DESC": "todo"
+    "DESC": "The course combines hands-on laboratory exercises with workshop-style problem sessions to complement the CHMG-142 lecture material. The course emphasizes the use of experiments as a tool for chemical analysis and the reporting of results in formal lab reports. Topics include the quantitative analysis of a multicomponent mixture using complexation and double endpoint titration, pH measurement, buffers and pH indicators, the kinetic study of a redox reaction, and the electrochemical analysis of oxidation reduction reactions. Prerequisites: CHMG-131 or CHMG-141 or equivalent course. Corequisites: CHMG-142 or equivalent course."
 },
 {
     "TITLE": "Organic Chemistry I",
     "ID": "CHMO-231",
-    "DESC": "todo"
+    "DESC": "This course is a study of the structure, nomenclature, reactions and synthesis of the following functional groups: alkanes, alkenes, alkynes. This course also introduces chemical bonding, IR and NMR spectroscopy, acid and base reactions, stereochemistry, nucleophilic substitution reactions, and alkene and alkyne reactions. In addition, the course provides an introduction to the use of mechanisms in describing and predicting organic reactions. Prerequisites: CHMG-142 or CHMG-131 or equivalent course. Corequisites: CHMO-235 or equivalent course."
 },
 {
     "TITLE": "Organic Chemistry II",
     "ID": "CHMO-232",
-    "DESC": "todo"
+    "DESC": "This course is a continuation of the study of the structure, nomenclature, reactions and synthesis of the following functional groups: aromatic systems, alcohols, ethers, epoxides, and carbonyls. This course will introduce the use of mechanisms in describing and predicting organic reactions. Prerequisites: CHMO-231 or CHMO-331 or equivalent course. Corequisites: CHMO-236 or equivalent course."
 },
 {
     "TITLE": "Organic Chemistry Lab I",
     "ID": "CHMO-235",
-    "DESC": "todo"
+    "DESC": "This course trains students to perform techniques important in an organic chemistry lab. The course also covers reactions from the accompanying lecture CHMO-231. Corequisite: CHMO-231 or equivalent course."
 },
 {
     "TITLE": "Organic Chemistry Lab II",
     "ID": "CHMO-236",
-    "DESC": "todo"
+    "DESC": "This course teaches students to apply basic lab techniques to organic synthetic experiments reactions covered in the accompanying lecture COS-CHMO-232. This course will also help students to solidify the concepts taught in lecture. The course will continue to instruct students in maintaining a professional lab notebook. Prerequisites: CHMO-235 or equivalent course. Corequisites: CHMO-232 or equivalent course."
 },
 {
     "TITLE": "Comprehensive Organic Chemistry I",
@@ -502,22 +502,22 @@
 {
     "TITLE": "University Physics I",
     "ID": "PHYS-211",
-    "DESC": "todo"
+    "DESC": "This is a course in calculus-based physics for science and engineering majors. Topics include kinematics, planar motion, Newton's Laws, gravitation, work and energy, momentum and impulse, conservation laws, systems of particles, rotational motion, static equilibrium, mechanical oscillations and waves, and data presentation/analysis. The course is taught in a workshop format that integrates the material traditionally found in separate lecture and laboratory courses. Prerequisites: C- or better in MATH-181 or equivalent course. Co-requisites: MATH-182 or equivalent course."
 },
 {
     "TITLE": "University Physics II",
     "ID": "PHYS-212",
-    "DESC": "todo"
+    "DESC": "This course is a continuation of PHYS-211, University Physics I. Topics include electrostatics, Gauss' law, electric field and potential, capacitance, resistance, DC circuits, magnetic field, Ampere's law, inductance, and geometrical and physical optics. The course is taught in a lecture/workshop format that integrates the material traditionally found in separate lecture and laboratory courses. Prerequisites: (PHYS-211 or PHYS-211A or PHYS-206 or PHYS-216) or (MECE-102, MECE-103 and MECE-205) and (MATH-182 or MATH-172 or MATH-182A) or equivalent courses. Grades of C- or better are required in all prerequisite courses."
 },
 {
     "TITLE": "Modern Physics I",
     "ID": "PHYS-213",
-    "DESC": "todo"
+    "DESC": "This course provides an introductory survey of elementary quantum physics, as well as basic relativistic dynamics. Topics include the photon, wave-particle duality, deBroglie waves, the Bohr model of the atom, the Schrodinger equation and wave mechanics, quantum description of the hydrogen atom, electron spin, and multi-electron atoms. Prerequisites: PHYS-209 or PHYS-212 or PHYS-217or equivalent course."
 },
 {
     "TITLE": "Modern Physics II",
     "ID": "PHYS-214",
-    "DESC": "todo"
+    "DESC": "This course is a continuation of a survey of modern physics beyond the topics introduced in Modern Physics I. Central topics include the physics of multi-electron atoms, molecular structure, fundamentals of statistical physics applied to systems of particles, elementary solid-state physics, applications to semiconductor materials and simple devices, and basic elements of nuclear physics. Prerequisites: PHYS-213 or equivalent course. Students in the PHYS-BS program must also complete PHYS-275 prior to taking this course."
 },
 {
     "TITLE": "University Physics 1 - Physics Majors",
@@ -542,27 +542,27 @@
 {
     "TITLE": "Experiments in Modern Physics",
     "ID": "PHYS-315",
-    "DESC": "todo"
+    "DESC": "In this course, students perform experiments representative of the foundation of modern quantum physics. These include investigations of wave particle duality, and the earliest of quantum mechanical models as well as measurements of fundamental constants. Experiments typically include electron diffraction, the photoelectric effect, optical diffraction and interference, atomic spectroscopy, charge-to-mass ratio of an electron, and blackbody radiation. This class teaches basic instrumentation techniques as well as data reduction and analysis. Students are expected to keep a laboratory notebook and present results in a journal-style paper. Prerequisites: PHYS-213 or equivalent course and (PHYS-BS or PHYS-MN or PHYS-IM) program students."
 },
 {
     "TITLE": "Advanced Laboratory in Physics",
     "ID": "PHYS-316",
-    "DESC": "todo"
+    "DESC": "In this course, students perform advanced experiments representative of the foundation of modern quantum physics. Experiments typically explore properties of materials, semiconductors, atomic physics, and nuclear decay. This class continues the instruction in instrumentation techniques as well as data reduction and analysis that began in Experiments in Modern Physics, PHYS-315. Students are expected to keep a laboratory notebook and present results in a journal-style paper. Prerequisites: PHYS-214 and PHYS-315 or equivalent courses. Students in the PHYS-BS program are also required to complete PHYS-275 prior to taking this course."
 },
 {
     "TITLE": "Mathematical Methods in Physics",
     "ID": "PHYS-320",
-    "DESC": "todo"
+    "DESC": "This course serves as an introduction to the mathematical tools needed to solve intermediate and upper-level physics problems. Topics include matrix algebra, vector calculus, Fourier analysis, partial differential equations in rectangular coordinates, and an introduction to series solutions of ordinary differential equations. Prerequisites: (MATH-219 or MATH-221) and MATH-231 and (PHYS-209 or PHYS-212 or PHYS-217) or equivalent courses."
 },
 {
     "TITLE": "Classical Mechanics",
     "ID": "PHYS-330",
-    "DESC": "todo"
+    "DESC": "This course is a systematic presentation of Newtonian kinematics and dynamics including equations of motion in one- and three-dimensions, conservation laws, non-inertial reference frames, central forces, Lagrangian mechanics, and rigid body motion. This course will use advanced mathematical techniques including differential equations, vector calculus, and matrix and tensor formulations. Prerequisites: (MATH-219 or MATH-221) and MATH-231 and (PHYS-209 or PHYS-212 or PHYS-217). Students in the PHYS-BS program are also required to complete PHYS-275 prior to taking this course. Co-requisites: PHYS-320 or equivalent course."
 },
 {
     "TITLE": "Physical Optics",
     "ID": "PHYS-365",
-    "DESC": "todo"
+    "DESC": "In this course light waves having both amplitude and phase will be described to provide a foundation for understanding key optical phenomena such as interference, diffraction, and propagation. Starting from Maxwell's equations the course advances to the topic of Fourier optics. Prerequisites: (PHYS-212 or PHYS-209 or PHYS-217) and PHYS-225, PHYS-283, PHYS-320 and (MATH-219 or MATH-221 or MATH-221H) or equivalent courses. Students in the PHYS-BS program are also required to complete PHYS-275 before taking this course."
 },
 {
     "TITLE": "Introduction to Astrophysics",
@@ -572,7 +572,12 @@
 {
     "TITLE": "Electricity and Magnetism",
     "ID": "PHYS-411",
-    "DESC": "todo"
+    "DESC": "This course is a systematic treatment of electrostatics and magnetostatics, charges, currents, fields and potentials, dielectrics and magnetic materials, Maxwell's equations and electromagnetic waves. Mathematical formalism using differential and integral vector calculus is developed. Field theory is treated in terms of scalar and vector potentials. Special techniques for solution to Laplace's equation as a boundary value problem are covered. Wave solutions of Maxwell's equations, and the behavior of electromagnetic waves at interfaces, are discussed. Prerequisites: (PHYS-209 or PHYS-212 or PHYS-217) and PHYS-320 or equivalent courses. Students in PHYS-BS or PHYS-2M are also required to complete PHYS-275 prior to taking this course."
+},
+{
+    "TITLE": "Thermal and Statistical Physics",
+    "ID": "PHYS-440",
+    "DESC": "This course is an introduction to the principles of classical thermodynamics and its statistical basis, including: equations of state, the first and second laws of thermodynamics, microscopic basis of entropy, temperature and thermal equilibrium, thermodynamic potentials, applications of thermodynamics, kinetic theory of gases, and Boltzmann and quantum statistics. Prerequisites: PHYS-213 and MATH-231 or equivalent courses. Students in the PHYS-BS program are also required to complete PHYS-275 prior to taking this course."
 },
 {
     "TITLE": "Solid State Physics",
